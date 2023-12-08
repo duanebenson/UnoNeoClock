@@ -55,9 +55,9 @@
 //*********************************************************************     
 // Defines
 //*********************************************************************    
-    #define neoPin 9               // Neo Pixel signal pin is A4
-    #define Usr1 3                 // Switch Usr1 is A3
-    #define Usr2 2                  // Switch Usr2 is D6
+    #define neoPin 9               // Neo Pixel signal pin is D9
+    #define Usr1 3                 // Switch Usr1 is D3
+    #define Usr2 2                  // Switch Usr2 is D2
     #define ambientSense A3         // Analog input used to read the amient light value
     #define setInd 13               // Clock-being-set idicator is a yellow LED on pin D13
     #define minuteMarks 20          // Base brightness value for dim white pixels marking the minutes
